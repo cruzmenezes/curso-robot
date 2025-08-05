@@ -5,7 +5,7 @@ instalar o Node
 instalar o robot framawork
 	# pip install robotframework
 instalar SaleniumLibrary
-	# pip install --ipgrade robotframework-seleniumlibrary
+	# pip install robotframework-seleniumlibrary
 instalar o chromeDriver
 	link:https://developer.chrome.com/docs/chromedriver/downloads?hl=pt-br
 obs: baixar a versão compativel com a versão do chorme instalado na maquina e depois
