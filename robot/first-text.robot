@@ -1,35 +1,42 @@
 *** Settings ***
-Documentation     Simple example using SeleniumLibrary.
-Library           SeleniumLibrary
+Library    SeleniumLibrary
 
 *** Variables ***
-${LOGIN URL}      http://localhost:7272
-${BROWSER}        Chrome
+${CAMPO_NOME}      id:form-nome
+${CAMPO_CARGO}     id:form-cargo
+${CAMPO_IMAGEM}    id:form-imagem
+${CAMPO_TIME}      class:lista-suspensa
+${CAMPO_CARD}      id:form-botao 
+${PROGRAMACAO}     //option[contains(.,'Programação')]
+${FRONT-END}       //option[contains(.,'Front-End')]
+${DADOS}           //option[contains(.,'Data Science')]
+${DEVOPS}          //option[contains(.,'Devops')]
+${UX}              //option[contains(.,'UX e Design')]
+${MOBILE}          //option[contains(.,'Mobile')]
+${INOVACAO}        //option[contains(.,'Inovação')]
 
 *** Test Cases ***
-Valid Login
-    Open Browser To Login Page
-    Input Username    demo
-    Input Password    mode
-    Submit Credentials
-    Welcome Page Should Be Open
-    [Teardown]    Close Browser
+
+Verificar se ao preencher corretamente o formulário os dados são inseridos corretamente na lista e se um novo card é criado no time esperado
+     Dado que eu acesse o Organo
+     E preencha os campos do formulário
+     E clique no botão criar card
+     Então identificar o card no time esperado
 
 *** Keywords ***
-Open Browser To Login Page
-    Open Browser    ${LOGIN URL}    ${BROWSER}
-    Title Should Be    Login Page
 
-Input Username
-    [Arguments]    ${username}
-    Input Text    username_field    ${username}
+Dado que eu acesse o Organo
+    Open Browser    url=http://localhost:3000/    browser=Chrome
 
-Input Password
-    [Arguments]    ${password}
-    Input Text    password_field    ${password}
+E preencha os campos do formulário
+    Input Text       ${CAMPO_NOME}       Edson victor
+    Input Text       ${CAMPO_CARGO}      Desenvolvedor
+    Input Text       ${CAMPO_IMAGEM}     https://picsum.photos/200/300
+    Click Element    ${CAMPO_TIME}
+    Click Element    ${PROGRAMACAO}
 
-Submit Credentials
-    Click Button    login_button
+E clique no botão criar card    
+    Click Element    ${CAMPO_CARD}
 
-Welcome Page Should Be Open
-    Title Should Be    Welcome Page
+Então identificar o card no time esperado
+    Element Should Be Visible    class:colaborador
