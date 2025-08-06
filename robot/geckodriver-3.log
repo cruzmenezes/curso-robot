@@ -1,0 +1,70 @@
+1754479267353	geckodriver	INFO	Listening on 127.0.0.1:62383
+1754479270440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62384" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\suporte\\AppData\\Local\\Temp\\rust_mozprofile8yfj7C"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1754479270861	Marionette	INFO	Marionette enabled
+1754479271222	Marionette	INFO	Listening on port 62391
+WebDriver BiDi listening on ws://127.0.0.1:62384
+Read port: 62391
+1754479271470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/js/th/Qm-DHMBmSU1vD9E5fXyxPmm9Gk0Oc9bVEcALXtxsgkQ.js, line 3307: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/Qm-DHMBmSU1vD9E5fXyxPmm9Gk0Oc9bVEcALXtxsgkQ.js, line 3307: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/Qm-DHMBmSU1vD9E5fXyxPmm9Gk0Oc9bVEcALXtxsgkQ.js, line 3307: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/Qm-DHMBmSU1vD9E5fXyxPmm9Gk0Oc9bVEcALXtxsgkQ.js, line 3307: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/Qm-DHMBmSU1vD9E5fXyxPmm9Gk0Oc9bVEcALXtxsgkQ.js, line 3307: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/Qm-DHMBmSU1vD9E5fXyxPmm9Gk0Oc9bVEcALXtxsgkQ.js, line 3307: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/Qm-DHMBmSU1vD9E5fXyxPmm9Gk0Oc9bVEcALXtxsgkQ.js, line 3307: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/Qm-DHMBmSU1vD9E5fXyxPmm9Gk0Oc9bVEcALXtxsgkQ.js line 2 > eval, line 3307: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/Qm-DHMBmSU1vD9E5fXyxPmm9Gk0Oc9bVEcALXtxsgkQ.js line 2 > eval, line 3307: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/Qm-DHMBmSU1vD9E5fXyxPmm9Gk0Oc9bVEcALXtxsgkQ.js line 2 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/Qm-DHMBmSU1vD9E5fXyxPmm9Gk0Oc9bVEcALXtxsgkQ.js line 2 > eval line 3307 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/Qm-DHMBmSU1vD9E5fXyxPmm9Gk0Oc9bVEcALXtxsgkQ.js line 2 > eval line 3307 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/Qm-DHMBmSU1vD9E5fXyxPmm9Gk0Oc9bVEcALXtxsgkQ.js line 2 > eval line 3307 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/Qm-DHMBmSU1vD9E5fXyxPmm9Gk0Oc9bVEcALXtxsgkQ.js line 2 > eval, line 3307: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/Qm-DHMBmSU1vD9E5fXyxPmm9Gk0Oc9bVEcALXtxsgkQ.js line 2 > eval, line 3307: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/Qm-DHMBmSU1vD9E5fXyxPmm9Gk0Oc9bVEcALXtxsgkQ.js line 2 > eval, line 3307: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/Qm-DHMBmSU1vD9E5fXyxPmm9Gk0Oc9bVEcALXtxsgkQ.js line 2 > eval, line 3307: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/Qm-DHMBmSU1vD9E5fXyxPmm9Gk0Oc9bVEcALXtxsgkQ.js line 2 > eval line 3307 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/Qm-DHMBmSU1vD9E5fXyxPmm9Gk0Oc9bVEcALXtxsgkQ.js line 2 > eval line 3307 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/Qm-DHMBmSU1vD9E5fXyxPmm9Gk0Oc9bVEcALXtxsgkQ.js line 2 > eval line 3307 > eval line 1 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/Qm-DHMBmSU1vD9E5fXyxPmm9Gk0Oc9bVEcALXtxsgkQ.js line 2 > eval line 3307 > eval line 1 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/qbFNSVSRBZ8?html5=1&enablejsapi=1&autoplay=0&rel=0&showinfo=0&modestbranding=1&controls=1&autohide=0&vq=large line 1263 > injectedScript, line 2865: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/qbFNSVSRBZ8?html5=1&enablejsapi=1&autoplay=0&rel=0&showinfo=0&modestbranding=1&controls=1&autohide=0&vq=large line 1263 > injectedScript, line 2865: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/qbFNSVSRBZ8?html5=1&enablejsapi=1&autoplay=0&rel=0&showinfo=0&modestbranding=1&controls=1&autohide=0&vq=large line 1263 > injectedScript, line 2865: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/qbFNSVSRBZ8?html5=1&enablejsapi=1&autoplay=0&rel=0&showinfo=0&modestbranding=1&controls=1&autohide=0&vq=large line 1263 > injectedScript, line 2865: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/qbFNSVSRBZ8?html5=1&enablejsapi=1&autoplay=0&rel=0&showinfo=0&modestbranding=1&controls=1&autohide=0&vq=large line 1263 > injectedScript, line 2865: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/qbFNSVSRBZ8?html5=1&enablejsapi=1&autoplay=0&rel=0&showinfo=0&modestbranding=1&controls=1&autohide=0&vq=large line 1263 > injectedScript, line 2865: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/qbFNSVSRBZ8?html5=1&enablejsapi=1&autoplay=0&rel=0&showinfo=0&modestbranding=1&controls=1&autohide=0&vq=large line 1263 > injectedScript, line 2865: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/qbFNSVSRBZ8?html5=1&enablejsapi=1&autoplay=0&rel=0&showinfo=0&modestbranding=1&controls=1&autohide=0&vq=large line 1263 > injectedScript line 2 > eval, line 2865: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/qbFNSVSRBZ8?html5=1&enablejsapi=1&autoplay=0&rel=0&showinfo=0&modestbranding=1&controls=1&autohide=0&vq=large line 1263 > injectedScript line 2 > eval, line 2865: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/qbFNSVSRBZ8?html5=1&enablejsapi=1&autoplay=0&rel=0&showinfo=0&modestbranding=1&controls=1&autohide=0&vq=large line 1263 > injectedScript line 2 > eval line 2865 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/qbFNSVSRBZ8?html5=1&enablejsapi=1&autoplay=0&rel=0&showinfo=0&modestbranding=1&controls=1&autohide=0&vq=large line 1263 > injectedScript line 2 > eval line 2865 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/qbFNSVSRBZ8?html5=1&enablejsapi=1&autoplay=0&rel=0&showinfo=0&modestbranding=1&controls=1&autohide=0&vq=large line 1263 > injectedScript line 2 > eval line 2865 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/qbFNSVSRBZ8?html5=1&enablejsapi=1&autoplay=0&rel=0&showinfo=0&modestbranding=1&controls=1&autohide=0&vq=large line 1263 > injectedScript line 2 > eval line 2865 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/qbFNSVSRBZ8?html5=1&enablejsapi=1&autoplay=0&rel=0&showinfo=0&modestbranding=1&controls=1&autohide=0&vq=large line 1263 > injectedScript line 2 > eval, line 2865: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/qbFNSVSRBZ8?html5=1&enablejsapi=1&autoplay=0&rel=0&showinfo=0&modestbranding=1&controls=1&autohide=0&vq=large line 1263 > injectedScript line 2 > eval, line 2865: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/qbFNSVSRBZ8?html5=1&enablejsapi=1&autoplay=0&rel=0&showinfo=0&modestbranding=1&controls=1&autohide=0&vq=large line 1263 > injectedScript line 2 > eval, line 2865: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/qbFNSVSRBZ8?html5=1&enablejsapi=1&autoplay=0&rel=0&showinfo=0&modestbranding=1&controls=1&autohide=0&vq=large line 1263 > injectedScript line 2 > eval, line 2865: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/qbFNSVSRBZ8?html5=1&enablejsapi=1&autoplay=0&rel=0&showinfo=0&modestbranding=1&controls=1&autohide=0&vq=large line 1263 > injectedScript line 2 > eval line 2865 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/qbFNSVSRBZ8?html5=1&enablejsapi=1&autoplay=0&rel=0&showinfo=0&modestbranding=1&controls=1&autohide=0&vq=large line 1263 > injectedScript line 2 > eval line 2865 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/qbFNSVSRBZ8?html5=1&enablejsapi=1&autoplay=0&rel=0&showinfo=0&modestbranding=1&controls=1&autohide=0&vq=large line 1263 > injectedScript line 2 > eval line 2865 > eval line 1 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/qbFNSVSRBZ8?html5=1&enablejsapi=1&autoplay=0&rel=0&showinfo=0&modestbranding=1&controls=1&autohide=0&vq=large line 1263 > injectedScript line 2 > eval line 2865 > eval line 1 > eval line 1 > eval, line 1: unreachable code after return statement
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://robotframework.org/" [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://robotframework.org/" [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://robotframework.org/" [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://robotframework.org/" [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://robotframework.org/" [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://robotframework.org/" [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://robotframework.org/" [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+JavaScript warning: https://www.youtube.com/embed/qbFNSVSRBZ8?html5=1&enablejsapi=1&autoplay=0&rel=0&showinfo=0&modestbranding=1&controls=1&autohide=0&vq=large line 1263 > injectedScript line 2 > eval line 2865 > eval line 1 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/qbFNSVSRBZ8?html5=1&enablejsapi=1&autoplay=0&rel=0&showinfo=0&modestbranding=1&controls=1&autohide=0&vq=large line 1263 > injectedScript line 2 > eval line 2865 > eval line 1 > eval line 1 > eval, line 1: unreachable code after return statement
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://robotframework.org/" [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://robotframework.org/" [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://robotframework.org/" [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://robotframework.org/" [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://robotframework.org/" [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://robotframework.org/" [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://robotframework.org/" [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://robotframework.org/" [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://robotframework.org/" [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
